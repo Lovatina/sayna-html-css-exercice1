@@ -1,0 +1,62 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+header{
+    height: 5vh;
+   padding: 1%;
+   color:  #FFF;
+    background-color: #C55394;
+}
+header div{
+    margin:1em 0;
+    float: left;
+}
+header > div a{
+    color: #FFF;
+    text-decoration: none;
+    font-family:'Courgette', cursive ;
+}
+header nav{
+    width: 29%;
+    float: right;
+}
+header ul > li{
+    padding: 0 2%;
+    display: inline;
+    font-family: Arial, sans-serif;
+}
+main{
+padding top: 5%;
+background-image: url(../img/background.png);
+}
+   main > div > p{
+       margin: 0%;
+       color: #C55394 ;
+       font-size: xx-large;
+       padding: 2% 0;
+       text-align: center;
+       background-image: url(../img/rainbow.png);
+       background-repeat: no-repeat;
+       background-position: 50% 0;
+       background-size: 20%;
+       font-family:'Courgette', cursive ;
+   }
+   main > div.content{
+       background: #FFF;
+       margin:0 20%;
+       padding: 5% 2%;
+       border-radius: 15px;
+   }
+       
+   }
+
+
+
+
+    
+    
+
+
